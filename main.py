@@ -1,10 +1,10 @@
 meme_dict = {
-    "LOL": "Komik bir şeye verilen cevap",
-    "CRINGE": "Garip ya da utandırıcı bir şey",
-    "ROFL": "Bir şakaya karşılık cevap",
-    "SHEESH": "Onaylamamak",
-    "CREEPY": "Korkunç",
-    "AGGRO": "Agresifleşmek/sinirlenmek"
+    "Word Here": "Definiton here",
+    "Word Here": "Definiton here",
+    "Word Here": "Definiton here",
+    "Word Here": "Definition here",
+    "Word Here": "Definiton here",
+    "Word Here": "Definiton here"
 }
 
 while True:
